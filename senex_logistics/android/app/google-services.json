@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590743362066",
+    "project_id": "senex-logistics",
+    "storage_bucket": "senex-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590743362066:android:ed56a826b8db627d2a96cb",
+        "android_client_info": {
+          "package_name": "com.example.senexlogistics.senex_logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590743362066-ovdo4leknu0nvsrkj5bqoh5tn6qab91v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senexlogistics.senex_logistics",
+            "certificate_hash": "18202ec55f75b3abfc4b08f245900da95bfbd88f"
+          }
+        },
+        {
+          "client_id": "590743362066-6rkc610nhagc8mq1mh1mbne47k7fukmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvspaV6h0eM3v7Cv1jVop3ZABa_gxYrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590743362066-6rkc610nhagc8mq1mh1mbne47k7fukmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
