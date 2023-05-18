@@ -132,10 +132,11 @@ class _HomeState extends State<Home> {
                 ),
                 Expanded(
                   child: GridView.builder(
-                      scrollDirection: Axis.horizontal,
+                      // scrollDirection: Axis.horizontal,
                       itemCount: _products.length,
                       gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                          crossAxisCount: 2, childAspectRatio: 1),
+                          crossAxisCount: 2,
+                          childAspectRatio: 1),
                       itemBuilder: (_, index) {
                         return GestureDetector(
                           onTap: ()=>Navigator.push(context, MaterialPageRoute(builder: (_)=>ProductDetails(_products[index]))),
